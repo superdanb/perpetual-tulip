@@ -20,7 +20,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Button
-        label: Learn More@
+        label: Learn More!
         url: 'https://www.stackbit.com/'
         style: secondary
     feature:
